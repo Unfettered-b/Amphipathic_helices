@@ -1,0 +1,17 @@
+2026-02-05 16:50:03,851 [INFO] Log file created: FtsZ_length_analysis_FtsZ2_domain_extract.log
+2026-02-05 16:50:03,851 [INFO] ===== RUN PARAMETERS =====
+2026-02-05 16:50:03,851 [INFO] Alignment file : ../FtsZ_length_analysis_FtsZ2_20260205_152658/FtsZ_length_analysis_FtsZ2.aln
+2026-02-05 16:50:03,851 [INFO] N-term end col : 87
+2026-02-05 16:50:03,851 [INFO] C-term start col : 433
+2026-02-05 16:50:03,851 [INFO] Min full-length (ungapped) : 335
+2026-02-05 16:50:03,851 [INFO] Verbose mode : True
+2026-02-05 16:50:03,851 [INFO] ==========================
+2026-02-05 16:50:03,851 [INFO] Reading alignment: ../FtsZ_length_analysis_FtsZ2_20260205_152658/FtsZ_length_analysis_FtsZ2.aln
+2026-02-05 16:50:03,853 [INFO] Loaded 248 sequences with 620 alignment columns
+2026-02-05 16:50:03,854 [INFO] Sequences passing full-length filter (≥335 aa): 248
+2026-02-05 16:50:03,854 [INFO] Sequences removed by full-length filter: 0
+2026-02-05 16:50:03,856 [INFO] N-term sequences extracted: 248
+2026-02-05 16:50:03,856 [INFO] C-term sequences extracted: 248
+2026-02-05 16:50:03,858 [INFO] Saved N-term FASTA → FtsZ_length_analysis_FtsZ2_Nterm.fasta
+2026-02-05 16:50:03,858 [INFO] Saved C-term FASTA → FtsZ_length_analysis_FtsZ2_Cterm.fasta
+2026-02-05 16:50:03,858 [INFO] Done.
